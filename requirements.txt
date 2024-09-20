@@ -1,0 +1,6 @@
+panads
+numpy
+
+
+
+-e .

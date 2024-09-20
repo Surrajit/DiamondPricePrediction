@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: DiamondPricePrediction
+Version: 0.0.1
+Author-email: palsurajit5@gmail.com
+Requires-Dist: panads
+Requires-Dist: numpy
