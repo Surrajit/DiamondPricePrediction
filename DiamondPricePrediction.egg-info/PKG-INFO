@@ -2,5 +2,12 @@ Metadata-Version: 2.1
 Name: DiamondPricePrediction
 Version: 0.0.1
 Author-email: palsurajit5@gmail.com
-Requires-Dist: panads
+Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: ipykernel
+Requires-Dist: matplotlib
+Requires-Dist: flask
+Requires-Dist: dvc
+Requires-Dist: mlflow==2.2.2
